@@ -14,7 +14,7 @@ Finally, update the seed files in the seeds directory with your own data and see
 
 ## !-- stillshot of site -->
 
-![alt text](../e-commerce/images/Screenshot%20(e-commerce).png)
+![alt text](./images/Screenshot%20(e-commerce).png)
 
 
 ## !-- Video --> 
