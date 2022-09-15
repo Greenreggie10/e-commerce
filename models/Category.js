@@ -13,9 +13,8 @@ Category.init(
       autoIncrement: true,
       allowNull: false,
     },
-    Category_name : {
+    category_name : {
       type: DataTypes.STRING,
-      allowNull: false,
     }
   },
   {
